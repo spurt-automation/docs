@@ -13,7 +13,7 @@ If the username and password are correct, the server replies with `welcome`. If 
 If the server does not allow remote connections, it shall respond with `denied` after it recieves the `open` command.
 
 
-The normal authentication flow is shown below and in [Authentication.png].
+The normal authentication flow is shown below and in [Authentication.png](Authentication.png).
 ```
 > open
 < authenticate
